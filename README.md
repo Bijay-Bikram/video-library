@@ -1,4 +1,4 @@
-## Full Stack Web app with large functionality and responsive
+## Full Stack React Web app with large functionality and responsive
 ### Important Features:
 - Backend Apis with express and node js
 - Jsonwebtoken library
