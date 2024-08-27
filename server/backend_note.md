@@ -239,7 +239,7 @@ export const getByTag = async (req, res, next) => {
 The "$in" operator is used to check if the value of the "tags" field is in the array of tags. <br>
 
 ## 12. I spend "1 hour" to fix this error (import module error)
-`Note: Don't forget to use suffix "js"/file extension while importing module`<br>
+`Note: Don't forget to use suffix "js" in file extension while importing module from JS file`<br>
 
 ## 13. "$addToSet" operator in mongoose
 Note: The use of "$addToSet" operator in mongoose/mongoDB, is to add an element in the array only if it doesn't exist. (no duplicates)<br>
