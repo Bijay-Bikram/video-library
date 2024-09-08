@@ -18,7 +18,7 @@
   
 ### Important Features:
 - Sign in, Sign up and Logout
-- User can upload videos, Thumbnail, Title, Description, Tags 
+- User can upload videos, Thumbnail, Title, Description and Tags 
 - User can view, edit and delete their videos
 - User can Subscribe, Like and Dislike videos
 - User can Comments videos
